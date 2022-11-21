@@ -2,3 +2,17 @@
 * 👀 I’m interested in data science and AI, but I am open to all kinds of learning.
 * 🌱 I’m currently learning C/C++ and Python. 
 * 📫 How to reach me: dmoura.adriano@gmail.com
+
+<br>
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b> </summary>
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=dmoura42&theme=radical&line_height=33"><br />
+  <img src = "https://github-readme-stats.vercel.app/api?username=dmoura42&show_icons=true&theme=radical&line_height=40">
+</p>
+
+</details>
